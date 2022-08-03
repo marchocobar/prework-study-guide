@@ -1,2 +1,2 @@
 # prework-study-guide
-Bootcmp study guide
+Bootcamp study guide
